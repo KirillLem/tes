@@ -18,7 +18,7 @@ charset-normalizer==2.0.4
 Click==7.0
 clickclick==1.2.2
 connexion==2.6.0
-cryptography==3.3.2
+cryptography==41.0.5
 cython==0.29.21
 defusedxml==0.6.0
 docker-pycreds==0.4.0
@@ -73,5 +73,5 @@ typing-inspect==0.7.1
 urllib3==1.26.5
 uvloop==0.15.2
 websocket-client==0.57.0
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 xmltodict==0.12.0
