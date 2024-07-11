@@ -75,3 +75,4 @@ uvloop==0.15.2
 websocket-client==0.57.0
 Werkzeug==1.0.1
 xmltodict==0.12.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
